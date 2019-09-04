@@ -1,4 +1,4 @@
 # gitXcode
 
 
-This is used for practice purpose to learn githun in xcode.
+This is used for practice purpose to learn github in xcode.
