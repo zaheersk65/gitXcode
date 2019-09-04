@@ -18,6 +18,10 @@ class ViewController: UIViewController {
     override func viewDidLayoutSubviews() {
         // good
         
+        //
+    }
+    override func motionEnded(_ motion: UIEvent.EventSubtype, with event: UIEvent?) {
+        //
     }
 }
 
